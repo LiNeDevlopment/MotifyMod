@@ -1,0 +1,22 @@
+/*themeinfo : {
+	"name" : "Titlebar Theme Fix",
+	"description" : "Adds a titlebar that matches the unthemed titlebar buttons.",
+	"creator" : "Metalloriff",
+	"version" : "0.0.1",
+	"url" : "https://raw.githubusercontent.com/Metalloriff/EnhancedSpotify/master/Themes/titlebarFix.css"
+}*/
+
+#zlink-root {
+	border-top: 31px solid #181818;
+}
+
+#zlink-root .sidebar-top-items::after {
+	content: "";
+	position: fixed;
+	background: #181818;
+	top: -50px;
+	left: -15px;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+}
