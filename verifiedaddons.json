@@ -1,28 +1,28 @@
 {
 	"plugins": {
-		"https://raw.githubusercontent.com/Metalloriff/MotifyMod/master/Plugins/albumAccentAsPrimaryColor.js": {
+		"https://github.com/Metalloriff/MotifyMod/blob/master/Plugins/albumAccentAsPrimaryColor.js": {
 			"name": "Album Accent Color As Primary Theme Color",
 			"description": "Sets the '--primary-color' theme setting to the most vibrant color of the current album cover. Requires any theme with a primary color.",
 			"creator": "Metalloriff"
 		},
-		"https://raw.githubusercontent.com/Metalloriff/MotifyMod/master/Plugins/examplePluginA.js": {
+		"https://github.com/Metalloriff/MotifyMod/blob/master/Plugins/examplePluginA.js": {
 			"name": "Example Plugin A",
 			"description": "The first example plugin.",
 			"creator": "Metalloriff"
 		},
-		"https://raw.githubusercontent.com/Metalloriff/MotifyMod/master/Plugins/experimentsButton.js": {
+		"https://github.com/Metalloriff/MotifyMod/blob/master/Plugins/experimentsButton.js": {
 			"name": "Experiments Button",
 			"description": "Adds an 'Experiments' button to the user profile dropdown menu.",
 			"creator": "Metalloriff"
 		}
 	},
 	"themes": {
-		"https://raw.githubusercontent.com/Metalloriff/MotifyMod/master/Themes/chemotherapy.css": {
+		"https://github.com/Metalloriff/MotifyMod/blob/master/Themes/chemotherapy.css": {
 			"name": "Chemotherapy",
 			"description": "Cures the cancer caused by the default Spotify theme.\nNOTE: Cannot cure cancer caused by other sources.\nWARNING: Looking at the code may re-introduce the cancer.",
 			"creator": "Metalloriff"
 		},
-		"https://raw.githubusercontent.com/Metalloriff/MotifyMod/master/Themes/titlebarFix.css": {
+		"https://github.com/Metalloriff/MotifyMod/blob/master/Themes/titlebarFix.css": {
 			"name": "Titlebar Theme Fix",
 			"description": "Adds a titlebar that matches the unthemed titlebar buttons.",
 			"creator": "Metalloriff"
